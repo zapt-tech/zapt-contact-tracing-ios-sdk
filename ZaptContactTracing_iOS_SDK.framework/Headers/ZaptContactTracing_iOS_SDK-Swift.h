@@ -207,8 +207,26 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
+SWIFT_CLASS("_TtC26ZaptContactTracing_iOS_SDK7Contact")
+@interface Contact : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+SWIFT_PROTOCOL("_TtP26ZaptContactTracing_iOS_SDK15ContactListener_")
+@protocol ContactListener
+- (void)onContactCycleFinishWithContactsFound:(NSArray<Contact *> * _Nonnull)contactsFound;
+@end
+
+
 SWIFT_CLASS("_TtC26ZaptContactTracing_iOS_SDK21ContactTracingManager")
 @interface ContactTracingManager : NSObject
+- (nonnull instancetype)initWithVisitableId:(NSString * _Nonnull)visitableId apiKey:(NSString * _Nonnull)apiKey OBJC_DESIGNATED_INITIALIZER;
+- (void)start;
+- (void)addContactListenerWithListener:(id <ContactListener> _Nonnull)listener;
+- (void)setDistanceWithDistance:(double)distance;
+- (void)setWindowSizeWithWindowSize:(NSInteger)windowSize;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
@@ -426,8 +444,26 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
+SWIFT_CLASS("_TtC26ZaptContactTracing_iOS_SDK7Contact")
+@interface Contact : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+SWIFT_PROTOCOL("_TtP26ZaptContactTracing_iOS_SDK15ContactListener_")
+@protocol ContactListener
+- (void)onContactCycleFinishWithContactsFound:(NSArray<Contact *> * _Nonnull)contactsFound;
+@end
+
+
 SWIFT_CLASS("_TtC26ZaptContactTracing_iOS_SDK21ContactTracingManager")
 @interface ContactTracingManager : NSObject
+- (nonnull instancetype)initWithVisitableId:(NSString * _Nonnull)visitableId apiKey:(NSString * _Nonnull)apiKey OBJC_DESIGNATED_INITIALIZER;
+- (void)start;
+- (void)addContactListenerWithListener:(id <ContactListener> _Nonnull)listener;
+- (void)setDistanceWithDistance:(double)distance;
+- (void)setWindowSizeWithWindowSize:(NSInteger)windowSize;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
