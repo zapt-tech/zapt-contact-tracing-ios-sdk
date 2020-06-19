@@ -227,6 +227,7 @@ SWIFT_CLASS("_TtC26ZaptContactTracing_iOS_SDK21ContactTracingManager")
 - (void)addContactListenerWithListener:(id <ContactListener> _Nonnull)listener;
 - (void)setDistanceWithDistance:(double)distance;
 - (void)setWindowSizeWithWindowSize:(NSInteger)windowSize;
+- (void)setDebugWithEnabled:(BOOL)enabled;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
@@ -464,6 +465,7 @@ SWIFT_CLASS("_TtC26ZaptContactTracing_iOS_SDK21ContactTracingManager")
 - (void)addContactListenerWithListener:(id <ContactListener> _Nonnull)listener;
 - (void)setDistanceWithDistance:(double)distance;
 - (void)setWindowSizeWithWindowSize:(NSInteger)windowSize;
+- (void)setDebugWithEnabled:(BOOL)enabled;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end

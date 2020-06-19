@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ZaptContactTracing_iOS_SDK-Swift.h</key>
 		<data>
-		gUALg3MgwsRfOmC3BLChftFwTPg=
+		MP6PmbhN18usp2bGpgXvsXlzdnc=
 		</data>
 		<key>Headers/ZaptContactTracing_iOS_SDK.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yT2WN/CLl/IJOH9LVf83NM24dNc=
+		PBybh+JhhfrGxGSyrEtmBBcVtyQ=
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		OYoRSmBSGTxyRtMsMZ8ja04vo68=
+		GX4+ZfQ7TYLuj4s13CRDGL0HMtU=
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		xJXjF0dmhvgKxGvaNzUCmO5VK+U=
+		W1F0nO9UcjdejNJQFMcP/Z2WrV0=
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		xJXjF0dmhvgKxGvaNzUCmO5VK+U=
+		W1F0nO9UcjdejNJQFMcP/Z2WrV0=
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		OYoRSmBSGTxyRtMsMZ8ja04vo68=
+		GX4+ZfQ7TYLuj4s13CRDGL0HMtU=
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		OYoRSmBSGTxyRtMsMZ8ja04vo68=
+		GX4+ZfQ7TYLuj4s13CRDGL0HMtU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,11 +67,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gUALg3MgwsRfOmC3BLChftFwTPg=
+			MP6PmbhN18usp2bGpgXvsXlzdnc=
 			</data>
 			<key>hash2</key>
 			<data>
-			MyI1UFSaSdyl1KAHKC2TfCZNnS9GLvLa7K0KmPkyAJw=
+			s1DRgrttF+yBVAlJcncHpKt54HkSRqHhiszpFbK0oGo=
 			</data>
 		</dict>
 		<key>Headers/ZaptContactTracing_iOS_SDK.h</key>
@@ -100,11 +100,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OYoRSmBSGTxyRtMsMZ8ja04vo68=
+			GX4+ZfQ7TYLuj4s13CRDGL0HMtU=
 			</data>
 			<key>hash2</key>
 			<data>
-			qSRoaVeLGfnTKdf4Bm85A/CSHciQgBAZpkGNhKwUpd4=
+			jv99g3q4NLnNqVJLIzp9c4AIlMPkPEpEobqtn0xq6ME=
 			</data>
 		</dict>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -122,11 +122,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xJXjF0dmhvgKxGvaNzUCmO5VK+U=
+			W1F0nO9UcjdejNJQFMcP/Z2WrV0=
 			</data>
 			<key>hash2</key>
 			<data>
-			wlwAK0PcgjeF/rezsekJ1MXMFAziryDwa4Nq9RxlSVM=
+			nHlOQTBQZ2hfHym/nTtVVgbUWIo0f0OlM7cKCNyfYz0=
 			</data>
 		</dict>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/arm64.swiftdoc</key>
@@ -144,11 +144,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xJXjF0dmhvgKxGvaNzUCmO5VK+U=
+			W1F0nO9UcjdejNJQFMcP/Z2WrV0=
 			</data>
 			<key>hash2</key>
 			<data>
-			wlwAK0PcgjeF/rezsekJ1MXMFAziryDwa4Nq9RxlSVM=
+			nHlOQTBQZ2hfHym/nTtVVgbUWIo0f0OlM7cKCNyfYz0=
 			</data>
 		</dict>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -166,11 +166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OYoRSmBSGTxyRtMsMZ8ja04vo68=
+			GX4+ZfQ7TYLuj4s13CRDGL0HMtU=
 			</data>
 			<key>hash2</key>
 			<data>
-			qSRoaVeLGfnTKdf4Bm85A/CSHciQgBAZpkGNhKwUpd4=
+			jv99g3q4NLnNqVJLIzp9c4AIlMPkPEpEobqtn0xq6ME=
 			</data>
 		</dict>
 		<key>Modules/ZaptContactTracing_iOS_SDK.swiftmodule/armv7.swiftdoc</key>
@@ -188,11 +188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OYoRSmBSGTxyRtMsMZ8ja04vo68=
+			GX4+ZfQ7TYLuj4s13CRDGL0HMtU=
 			</data>
 			<key>hash2</key>
 			<data>
-			qSRoaVeLGfnTKdf4Bm85A/CSHciQgBAZpkGNhKwUpd4=
+			jv99g3q4NLnNqVJLIzp9c4AIlMPkPEpEobqtn0xq6ME=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
