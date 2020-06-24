@@ -209,6 +209,11 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC26ZaptContactTracing_iOS_SDK7Contact")
 @interface Contact : NSObject
+@property (nonatomic, copy) NSString * _Nonnull deviceId;
+@property (nonatomic) NSInteger counter;
+@property (nonatomic) double distance;
+@property (nonatomic) int64_t timestamp;
+- (nonnull instancetype)initWithDeviceId:(NSString * _Nonnull)deviceId distance:(double)distance OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
@@ -448,6 +453,11 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC26ZaptContactTracing_iOS_SDK7Contact")
 @interface Contact : NSObject
+@property (nonatomic, copy) NSString * _Nonnull deviceId;
+@property (nonatomic) NSInteger counter;
+@property (nonatomic) double distance;
+@property (nonatomic) int64_t timestamp;
+- (nonnull instancetype)initWithDeviceId:(NSString * _Nonnull)deviceId distance:(double)distance OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end

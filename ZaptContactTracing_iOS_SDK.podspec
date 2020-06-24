@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'ZaptContactTracing_iOS_SDK'
-    s.version           = '1.0.5'
+    s.version           = '1.0.6'
     s.summary           = 'Contact Tracing SDK'
     s.homepage          = 'https://zapt.tech/'
 
@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license           = 'Copyright'
 
     s.platform          = :ios
-    s.source            = { :git => 'https://github.com/zapt-tech/zapt-contact-tracing-ios-sdk.git', :tag => "1.0.5" }
+    s.source            = { :git => 'https://github.com/zapt-tech/zapt-contact-tracing-ios-sdk.git', :tag => "1.0.6" }
 
     s.ios.deployment_target = '10.0'
     s.ios.vendored_frameworks = 'ZaptContactTracing_iOS_SDK.framework'
